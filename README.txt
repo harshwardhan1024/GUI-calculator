@@ -1,3 +1,3 @@
-Calculator made using Java. 
-Enter a valid expression and it computes the answer.
-It converts the expression into postfix notation.
+# JavaFX Calculator
+
+Enter a valid expression and it produces the result.
